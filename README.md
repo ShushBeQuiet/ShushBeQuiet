@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShushBeQuiet
+- 👀 I’m interested in coding and music
+- 🌱 I’m currently learning python right now!
+- 💞️ I'm just trying to get into coding
